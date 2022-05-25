@@ -12,8 +12,9 @@
 	border: 2px solid white;
 	cursor: pointer;
 	border-radius: 30px;
+	user-select: none;
 }
 
 .boton-clear:hover {
-	background-color: yellow;
+	background-color: #ebb000;
 }
